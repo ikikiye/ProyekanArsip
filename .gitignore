@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.log
+*.sql
+*.sqlite
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so

@@ -1,0 +1,2 @@
+def arsiparis():
+    print("something")
