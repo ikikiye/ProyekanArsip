@@ -35,3 +35,5 @@ def signIn(inputFunction):
         inputFunction()
     else:
         print("Login Failed")
+
+print ('1. Sign Up')
